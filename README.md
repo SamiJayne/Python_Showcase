@@ -5,4 +5,5 @@ to showcase the portfolio work from 100 days of Python Code course as well as my
 the course or anything spatial related.
 
 Project_1 = Simple - Update entered text into Morse Code
+
 Project_2 = Game - Tic Tac Toe
